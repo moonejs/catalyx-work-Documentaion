@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "c3f5866b1328ce14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "July/Day-2 14-July 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-2 14-July 2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,8 +179,19 @@
               "icon": "lucide-list",
               "title": "Outline of Backend Jobs"
             }
+          },
+          {
+            "id": "5d789d9064531e9e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,12 +206,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e297d28d841226a3",
+  "active": "c3f5866b1328ce14",
   "lastOpenFiles": [
-    "Untitled.md",
+    "July",
+    "README.md",
+    "July/Day-2 14-July 2026.md",
     "Untitled 1.md",
     "Projects/MAD-2/Backend Jobs.md",
     "Projects/MAD-2/Backend Notes.md",

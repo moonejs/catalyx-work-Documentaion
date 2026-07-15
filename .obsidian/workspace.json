@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Day-2 14-July 2026"
             }
+          },
+          {
+            "id": "c167463a74bdc9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "July/Day-2 15-July 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day-2 15-July 2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,11 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3f5866b1328ce14",
+  "active": "c167463a74bdc9cf",
   "lastOpenFiles": [
+    "July/Day-2 14-July 2026.md",
+    "July/Day-2 15-July 2026.md",
     "July",
     "README.md",
-    "July/Day-2 14-July 2026.md",
     "Untitled 1.md",
     "Projects/MAD-2/Backend Jobs.md",
     "Projects/MAD-2/Backend Notes.md",

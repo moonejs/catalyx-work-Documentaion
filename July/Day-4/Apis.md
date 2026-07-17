@@ -52,7 +52,7 @@ Error case: wrong email/password → `401 Unauthorized`
 
 Headers required:
 
-Authorization : Bearer **< acessToken>**
+>Authorization : Bearer **< acessToken>**
 
 Response (200):
 ```json
@@ -71,11 +71,9 @@ No token / invalid token → `401 Unauthorized`
 **POST** `/auth/refresh`
 
 Headers required:
-````
 
-Authorization : Bearer **< refreshToken>**
+>Authorization : Bearer **< refreshToken>**
 
-```
 (note: this uses the **refresh** token, not the access token)
 
 Response (200): fresh `accessToken` + `refreshToken` — replace both in storage
@@ -86,9 +84,8 @@ Response (200): fresh `accessToken` + `refreshToken` — replace both in storage
 **POST** `/auth/logout`
 
 Headers required:
-```
 
-Authorization : Bearer **< acessToken>**
+>Authorization : Bearer **< acessToken>**
 
 Response (200):
 ```json
